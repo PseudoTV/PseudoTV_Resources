@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.videos.rating.mpaa.classic.youtube" name="MPAA Classic - Youtube" version="0.0.1" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="ratings" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Classic MPAA Rating Videos - Special Thanks to CinemaVision</summary>
+		<description lang="en">Classic MPAA Rating Videos - Special Thanks to CinemaVision</description>
+		<platform>all</platform>
+	</extension>
+</addon>
