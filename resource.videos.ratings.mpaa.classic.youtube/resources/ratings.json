@@ -1,8 +1,1 @@
-{
-	'NR': 'plugin://plugin.video.youtube/play/?video_id=qlRaA8tAfc0',
-	'R': 'plugin://plugin.video.youtube/play/?video_id=s0UuXOKjH-w',
-	'NC-17': 'plugin://plugin.video.youtube/play/?video_id=Cp40pL0OaiY',
-	'PG-13': 'plugin://plugin.video.youtube/play/?video_id=lSg2vT5qQAQ',
-	'PG': 'plugin://plugin.video.youtube/play/?video_id=oKrzhhKowlY',
-	'G': 'plugin://plugin.video.youtube/play/?video_id=QTKEIFyT4tk'
-}
+{"NR": "plugin://plugin.video.youtube/play/?video_id=qlRaA8tAfc0", "R": "plugin://plugin.video.youtube/play/?video_id=s0UuXOKjH-w", "NC-17": "plugin://plugin.video.youtube/play/?video_id=Cp40pL0OaiY", "PG-13": "plugin://plugin.video.youtube/play/?video_id=lSg2vT5qQAQ", "PG": "plugin://plugin.video.youtube/play/?video_id=oKrzhhKowlY", "G": "plugin://plugin.video.youtube/play/?video_id=QTKEIFyT4tk"}
