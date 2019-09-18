@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.logos.networks.color" name="Channel Logo Pack - Networks (Colored)" version="0.0.1" provider-name="Lunatixz">
+<addon id="resource.images.logos.compressed.example" name="Channel Logo Pack - Example (Compressed)" version="0.0.1" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="true" type="logos" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
