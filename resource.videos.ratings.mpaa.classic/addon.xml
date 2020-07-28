@@ -8,5 +8,8 @@
 		<summary lang="en">Classic MPAA Rating Videos - Special Thanks to CinemaVision</summary>
 		<description lang="en">Classic MPAA Rating Videos - Special Thanks to CinemaVision</description>
 		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
 	</extension>
 </addon>
