@@ -5,8 +5,8 @@
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Color MPAA Rating Videos - Special Thanks to CinemaVision</summary>
-		<description lang="en">Color MPAA Rating Videos - Special Thanks to CinemaVision</description>
+		<summary lang="en_GB">Color MPAA Rating Videos - Special Thanks to CinemaVision</summary>
+		<description lang="en_GB">Color MPAA Rating Videos - Special Thanks to CinemaVision</description>
 		<platform>all</platform>
         <assets>
             <icon>icon.png</icon>
