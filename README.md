@@ -1,4 +1,5 @@
 
+
 # PseudoTV_Resources
 
 Resource media `images, videos`
@@ -53,8 +54,8 @@ Formats:
     │       ├── Action.avi
     │       └── trailers.mp4
           
-*Root (resources/) folder added to all channels.
-**Folders are cap-insensitive, However must match channel name as it appears in guide.
-*** 3D ratings supported, requires "(3DSBS)" prefix.
-**** Animated *.gifs supported for logos.
-***** *.json format for video download utility. 
+    *Root (resources/) folder added to all channels.
+    **Folders are cap-insensitive, However must match channel name as it appears in guide.
+    *** 3D ratings supported, requires "(3DSBS)" prefix.
+    **** Animated *.gifs supported for logos.
+    ***** *.json format for video download utility. 
