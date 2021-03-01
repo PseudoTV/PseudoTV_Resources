@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="resource.videos.trailers.sample" name="Trailer Samples" version="0.0.1" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="trailer" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Trailer Sample Pack</summary>
+		<description lang="en_GB">Trailer Sample Pack</description>
+		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
