@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="resource.videos.bumpers.sample" name="TV Network Bumper Samples" version="0.0.1" provider-name="Lunatixz">
+<addon id="resource.images.overlays.crttv" name="CRT TV Overlays w/ Day and Night" version="0.0.1" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="overlays" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Special Thanks to Libretro and exodus123456</summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+        <website>https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192</website>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
+
+<addon id="resource.videos.bumpers.sample" name="Network Bumper Samples" version="0.0.1" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="bumpers" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">TV Network Bumper Sample Pack</summary>
-		<description lang="en_GB">TV Network Bumper Sample Pack</description>
+		<summary lang="en_GB">Network Bumper Sample Pack</summary>
+		<description lang="en_GB">Network Bumper Sample Pack</description>
 		<platform>all</platform>
         <assets>
             <icon>icon.png</icon>
@@ -15,7 +31,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.videos.ratings.mpaa.classic" name="MPAA Classic" version="0.0.1" provider-name="Lunatixz">
+<addon id="resource.videos.ratings.mpaa.classic" name="MPAA Classic" version="0.0.2" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="ratings" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>

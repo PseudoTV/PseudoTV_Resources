@@ -15,42 +15,42 @@ https://forum.kodi.tv/showthread.php?tid=347359
 
 # Resource Folder Structure
 
-resource.images.logos.sample/
+`resource.images.logos.sample/
 ├── resources/
 │   ├── ABC.jpg
 │   ├── CBS.png
-│   └── NBC.gif
+│   └── NBC.gif`
 
-resource.videos.bumpers.sample/
+`resource.videos.bumpers.sample/
 ├── resources/
 │   └── ABC (Channel Name)
 │       ├── 1.mpg
 │       ├── ABC.mkv
 │       ├── ABC.avi
-│       └── Commercial.mp4
+│       └── Commercial.mp4`
 
-resource.videos.ratings.sample/
+`resource.videos.ratings.sample/
 ├── resources/
 │   ├── TV-MA.mpg
 │   ├── NC-17.mkv
 │   ├── G (3DSBS).avi
-│   └── R.mp4
+│   └── R.mp4`
 
-resource.videos.commercials.sample/
+`resource.videos.commercials.sample/
 ├── resources/
 │   └── ABC (Channel Name)
 │       ├── 1.mpg
 │       ├── ABC.mkv
 │       ├── ABC.avi
-│       └── Commercial.mp4
+│       └── Commercial.mp4`
 
-resource.videos.trailers.sample/
+`resource.videos.trailers.sample/
 ├── resources/
 │   └── Action (Channel Genre)
 │       ├── 1.mpg
 │       ├── Action.mkv
 │       ├── Action.avi
-│       └── trailers.mp4
+│       └── trailers.mp4`
           
 *Root (resources/) folder added to all channels.
 **Folders are cap-insensitive, However must match channel name as it appears in guide.
