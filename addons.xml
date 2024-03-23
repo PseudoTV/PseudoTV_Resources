@@ -44,4 +44,19 @@
         </assets>
 	</extension>
 </addon>
+
+<addon id="resource.videos.ratings.mpaa.vintage" name="MPAA Vintage" version="0.0.2" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="ratings" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Vintage MPAA Rating Videos - Special Thanks to CinemaVision</summary>
+		<description lang="en_GB">Vintage MPAA Rating Videos - Special Thanks to CinemaVision</description>
+		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
 </addons>
