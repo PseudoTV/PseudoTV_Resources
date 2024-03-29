@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="resource.images.pseudotv.logos" name="PseudoTV Live Logos" version="0.0.3" provider-name="Lunatixz">
+<addon id="resource.images.pseudotv.logos" name="PseudoTV Live Logos" version="0.0.4" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="logos" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
