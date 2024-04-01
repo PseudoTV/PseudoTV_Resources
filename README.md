@@ -30,6 +30,33 @@ Formats:
     │   ├── G (3DSBS).avi
     │   └── R.mp4
 
+    resource.videos.bumpers.sample/
+    ├── resources/
+    │   ├── Foo.avi
+    │   ├── Bar.mkv
+    ├── BBC/
+    │   ├── Foobar.mkv
+    ├── Drama/
+    │   ├── Foobar.mkv
+
+    resource.videos.adverts.sample/
+    ├── resources/
+    │   ├── Foo.avi
+    │   ├── Bar.mkv
+    ├── BBC/
+    │   ├── Foobar.mkv
+    ├── Drama/
+    │   ├── Foobar.mkv
+
+    resource.videos.trailers.sample/
+    ├── resources/
+    │   ├── Foo.avi
+    │   ├── Bar.mkv
+    ├── BBC/
+    │   ├── Foobar.mkv
+    ├── Drama/
+    │   ├── Foobar.mkv
+
     *    Root (resources/) folder added to all channels.
     **   Folders are not cap-sensitive, However must match channel name as it appears in guide.
     ***  Animated *.gifs supported for logos.
