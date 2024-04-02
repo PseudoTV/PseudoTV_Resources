@@ -104,7 +104,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.videos.trailers.sample" name="PseudoTV Live Trailers" version="0.0.2" provider-name="Lunatixz">
+<addon id="resource.videos.trailers.pseudotv" name="PseudoTV Live Trailers" version="0.0.3" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="trailer" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
