@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.videos.adverts.pseudotv" name="Commercial Samples" version="0.0.1" provider-name="Lunatixz">
+<addon id="resource.videos.adverts.pseudotv" name="PseudoTV Live Adverts" version="0.0.2" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="commercials" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
@@ -97,6 +97,21 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Vintage MPAA Rating Videos - Special Thanks to CinemaVision</summary>
 		<description lang="en_GB">Vintage MPAA Rating Videos - Special Thanks to CinemaVision</description>
+		<platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
+
+<addon id="resource.videos.trailers.sample" name="PseudoTV Live Trailers" version="0.0.2" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="trailer" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Trailer Sample Pack</summary>
+		<description lang="en_GB">Trailer Sample Pack</description>
 		<platform>all</platform>
         <assets>
             <icon>icon.png</icon>
