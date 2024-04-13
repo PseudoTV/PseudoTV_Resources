@@ -56,13 +56,7 @@ class Generator(object):
         # self.runCheck()
         # notify user
         print("Finished updating addons xml and md5 files")
-    
-    
-    # def runCheck(self):
-        # print 'runCheck'
-        # for path in self.newPaths:
-        # kodi-addon-checker <path-to-addon>
-    
+
     def _clean_addons(self):
         for root, dirnames, filenames in os.walk(GITPATH):
             for dirname in dirnames:
@@ -73,8 +67,7 @@ class Generator(object):
                 if filename.endswith(DELETE_EXT):
                     print("removing: " + filename)
                     os.remove(os.path.join(root, filename))
-                 
-                 
+
     def _generate_addons_file( self ):
         # addon list
         addons = os.listdir(GITPATH)
