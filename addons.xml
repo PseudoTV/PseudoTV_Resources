@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="resource.images.overlays.crttv" name="CRT TV Overlays w/ Day and Night" version="0.0.2" provider-name="Lunatixz">
+	<extension point="kodi.resource.images" compile="false" type="overlays" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Special Thanks to Libretro and exodus123456</summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+        <website>https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192</website>
+        <assets>
+            <icon>icon.png</icon>
+            <screenshot>images/screenshot01.png</screenshot>
+            <screenshot>images/screenshot02.png</screenshot>
+            <screenshot>images/screenshot03.png</screenshot>
+            <screenshot>images/screenshot04.png</screenshot>
+        </assets>
+	</extension>
+</addon>
+
 <addon id="resource.images.pseudotv.logos" name="PseudoTV Live Logos" version="0.0.5" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="logos" />
 	<requires>
@@ -14,14 +34,14 @@
 	</extension>
 </addon>
 
-<addon id="resource.videos.adverts.pseudotv" name="PseudoTV Live Adverts" version="0.0.5" provider-name="Lunatixz">
+<addon id="resource.videos.adverts.pseudotv" name="PseudoTV Live Adverts" version="1.0.0" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="commercials" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Commercial Sample Pack</summary>
-		<description lang="en_GB">Commercial Sample Pack</description>
+		<summary lang="en_GB">Adverts Template Pack</summary>
+		<description lang="en_GB">Adverts Template Pack</description>
 		<platform>all</platform>
         <assets>
             <icon>icon.png</icon>
@@ -104,14 +124,14 @@
 	</extension>
 </addon>
 
-<addon id="resource.videos.trailers.pseudotv" name="PseudoTV Live Trailers" version="0.0.5" provider-name="Lunatixz">
+<addon id="resource.videos.trailers.pseudotv" name="PseudoTV Live Trailers" version="1.0.0" provider-name="Lunatixz">
 	<extension point="kodi.resource.images" compile="false" type="trailer" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Trailer Sample Pack</summary>
-		<description lang="en_GB">Trailer Sample Pack</description>
+		<summary lang="en_GB">Trailer Template Pack</summary>
+		<description lang="en_GB">Trailer Template Pack</description>
 		<platform>all</platform>
         <assets>
             <icon>icon.png</icon>

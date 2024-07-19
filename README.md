@@ -58,5 +58,5 @@ Formats:
     │   ├── Foobar.mkv
 
     *    Root (resources/) folder added to all channels.
-    **   Folders are not cap-sensitive, However must match channel name as it appears in guide.
+    **   Folders are not cap-sensitive, However must match channel name and genre as it appears in guide.
     ***  Animated *.gifs supported for logos.
