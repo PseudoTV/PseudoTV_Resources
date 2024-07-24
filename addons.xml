@@ -12,10 +12,10 @@
         <website>https://forums.libretro.com/t/exodus-crt-tvs-overlays-collection-with-day-and-night-support/9192</website>
         <assets>
             <icon>icon.png</icon>
-            <screenshot>images/screenshot01.png</screenshot>
-            <screenshot>images/screenshot02.png</screenshot>
-            <screenshot>images/screenshot03.png</screenshot>
-            <screenshot>images/screenshot04.png</screenshot>
+            <screenshot>images/screenshot01.jpg</screenshot>
+            <screenshot>images/screenshot02.jpg</screenshot>
+            <screenshot>images/screenshot03.jpg</screenshot>
+            <screenshot>images/screenshot04.jpg</screenshot>
         </assets>
 	</extension>
 </addon>
