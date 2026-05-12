@@ -28,7 +28,7 @@ import xml.etree.ElementTree
 from zipfile import ZipFile
 from shutil import copyfile, rmtree
 
-GITPATH    = 'Z:\GitHub\PseudoTV_Resources/'
+GITPATH    = 'D:\GitHub\PseudoTV_Resources/'
 ZIPPATH    = os.path.join(GITPATH,'zips','')
 DELETE_EXT = ('.pyc', '.pyo', '.db')
 
